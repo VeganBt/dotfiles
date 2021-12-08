@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ofer2406@gmail.com
+	name = Ofer Peled
